@@ -15,3 +15,4 @@ JENELLE YSABEL CHAN RAMIREZ
 ### COMPUTATIONAL THINKING SKILLS
 
 [Computational Thinking Exercise Output](q1/ctskillsPlatinumRamirez.md)
+
