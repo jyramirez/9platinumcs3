@@ -57,10 +57,12 @@ Open vending machine
 Check internal parts
 
 IF blockage is present THEN
+
     Clear up blockage
     Refill change
 
 ELSE
+
     Check other internal parts
     Fix issue
     Refill change
