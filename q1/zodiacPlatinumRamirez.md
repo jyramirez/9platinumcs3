@@ -15,5 +15,5 @@ else:
 
 # DOCUMENTATION
 
-![alt text](image-1.png)
-![alt text](image.png)
+![code](images/image-1.png)
+![code](images/image.png)
