@@ -36,7 +36,7 @@ This class represents the sports writing category of campus journalism. It conta
 |---|---|
 | write() | Write the article |
 | revise() | Revise the Article
-| watch(sports_name; string) | Watch Videos for Facts Sheet |
+| watch(sport_name; string) | Watch Videos for Facts Sheet |
 
 ## Class Diagram
 ![Class Diagram](images/classDiagram.png)
