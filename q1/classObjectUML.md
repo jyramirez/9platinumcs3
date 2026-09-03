@@ -18,7 +18,7 @@ SportsWriting
 
 ## Class Description
 
-Sports Article Information and Essentials
+This class represents the sports writing category of campus journalism. It contains the basic properties that would be needed when writing an article.
 
 ## Properties
 | Property | Data Type | Description |
