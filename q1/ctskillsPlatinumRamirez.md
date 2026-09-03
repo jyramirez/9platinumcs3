@@ -30,15 +30,10 @@ In this scenario, the main problem is that the vending machine does not work pro
 ## Step 3: Apply Computational Thinking Skills
 
 | Sub-Problem | CT Skill | Proposed Solution |
-
 |---|---|---|
-
 | Sub-problem 1: Incorrect Change | Algorithm Design | I will first check if there are any internal issues such as blockages, and after which depending on what I find, I will fix the issue and then refill the vending machine with the change. |
-
 | Sub-problem 2: Lack of Item Tracking | Decomposition | I will create new systems that will help with inventory. The first one could count what Items are present, the second one could track if the vending machine is restocked or people are buying, and the third could use the second system to notify the people if the items have run out. |
-
 | Sub-problem 3: Incorrect Items | Abstraction | I will focus purely on assigning the right buttons to the right items, and I may also add extra labels in case the students need it. |
-
 | Sub-problem 4: Efficiency | Pattern Recognition | I will observe why the vending machine is not efficient when many people do not use it in a row, and I will base my solution on that. |
 
 --
