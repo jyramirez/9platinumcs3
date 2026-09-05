@@ -1,0 +1,83 @@
+Enter your name: Jenelle
+
+Welcome, Jenelle! Would you like to write a sports article? (yes/no): yes
+
+Before we begin, what language are you writing the article in? English
+
+What kind of sports article are you writing? Sports News
+
+Do you have experience writing sports articles in this language? (yes/no): yes
+
+Are you an individual sports writer or part of collaborative publishing> (individual/collab): individual
+
+Will this article be posted? (yes/no): yes
+
+Enter the sport name you are covering: Volleyball
+Watching the Volleyball event for the article.
+
+Enter the headline of the sports article: #SPORTS | Team A crushes Team B, 2-0
+
+Enter the 5W1H facts (Who, What, When, Where, Why, How): Team A/Team B, Volleyball, 09/01/2026, Manila, Volleyball Mens Finals, Match
+
+Sports Article Headline: #SPORTS | Team A crushes Team B, 2-0
+5W1H Facts: Team A/Team B, Volleyball, 09/01/2026, Manila, Volleyball Mens Finals, Match
+Do you want to revise the sports article? (yes/no): no
+No revisions made.
+Sports article information obtained successfully!
+
+Would you like to write another sports article? (yes/no): yes
+
+Before we begin, what language are you writing the article in? Filipino
+
+What kind of sports article are you writing? Sports Feature
+
+Do you have experience writing sports articles in this language? (yes/no): yes
+
+Are you an individual sports writer or part of collaborative publishing> (individual/collab): individual
+
+Will this article be posted? (yes/no): yes
+
+Enter the sport name you are covering: Tennis
+Watching the Tennis event for the article.
+
+Enter the headline of the sports article: #ISPORTS | SurnameA, pinaluhod si SurnameB, 2-1
+
+Enter the 5W1H facts (Who, What, When, Where, Why, How): SurnameA/SurnameB, Tennis, 08/31/2026, Quezon City, Tennis Womens Finals, Match
+
+Sports Article Headline: #ISPORTS | SurnameA, pinaluhod si SurnameB, 2-1
+5W1H Facts: SurnameA/SurnameB, Tennis, 08/31/2026, Quezon City, Tennis Womens Finals, Match
+Do you want to revise the sports article? (yes/no): no
+No revisions made.
+Sports article information obtained successfully!
+
+Headline: #SPORTS | Team A crushes Team B, 2-0
+5W1H Facts: Team A/Team B, Volleyball, 09/01/2026, Manila, Volleyball Mens Finals, Match
+Subtype: Sports News
+
+Headline: #ISPORTS | SurnameA, pinaluhod si SurnameB, 2-1
+5W1H Facts: SurnameA/SurnameB, Tennis, 08/31/2026, Quezon City, Tennis Womens Finals, Match
+Subtype: Sports Feature
+
+
+Performing methods on Sports Article 1:
+Do you want to revise the sports article? (yes/no): yes
+Do you want to revise the headline? (yes/no): yes
+Enter the revised headline of the sports article: #SPORTS | Revised Headline
+
+Do you want to revise the 5W1H facts? (yes/no): yes
+Enter the revised 5W1H facts (Who, What, When, Where, Why, How): Revised 5W1H
+
+Do you want to revise the subtype? (yes/no): no 
+Revised Sports Article Headline: #SPORTS | Revised Headline
+Revised 5W1H Facts: Revised 5W1H
+Revised Subtype: Sports News
+
+Headline: #SPORTS | Revised Headline
+5W1H Facts: Revised 5W1H
+Subtype: Sports News
+
+Headline: #ISPORTS | SurnameA, pinaluhod si SurnameB, 2-1
+5W1H Facts: SurnameA/SurnameB, Tennis, 08/31/2026, Quezon City, Tennis Womens Finals, Match
+Subtype: Sports Feature
+
+Great articles!

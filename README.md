@@ -21,3 +21,5 @@ JENELLE YSABEL CHAN RAMIREZ
 [ILA 3-1: Four Pillars of OOP Output](q1/ila_oop.md)
 
 [OOPAct Output](q1/classObjectUML.md)
+
+[OOPAct Part 2 Output](q1/classAttributesMethods.md)

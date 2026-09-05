@@ -34,9 +34,9 @@ This class represents the sports writing category of campus journalism. It conta
 ## Methods
 | Method | Description |
 |---|---|
-| write() | Write the article |
-| revise() | Revise the Article
-| watch(sport_name; string) | Watch Videos for Facts Sheet |
+| write() | Writes/updates |
+| revise() | Revise/changes
+| watch(sport_name; string) | Gathers information |
 
 ## Class Diagram
 ![Class Diagram](images/classDiagram.png)
