@@ -23,3 +23,5 @@ JENELLE YSABEL CHAN RAMIREZ
 [OOPAct Output](q1/classObjectUML.md)
 
 [OOPAct Part 2 Output](q1/classAttributesMethods.md)
+
+[OOPAct Part 3 Output](q1/classRelationships.md)
