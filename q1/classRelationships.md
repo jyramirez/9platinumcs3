@@ -22,7 +22,7 @@ Multiplicity: 1..*
 Explanation: Sports Writing is very broad. When it comes to play-by-play article, an article only covers one sport. However, as mentioned earlier, sports writing's broadness and diversity can also allow for it to cover multiple sports if it is what the article is asking for. For example, if a writer were to be asked to create a Sports News article talking about Intramurals, it could include numerous sports. 
 
 ## UML Class Relationship Diagram
-![Class Relationship Diagram](images/classRelationshipDiagram.png)
+![Class Relationship Diagram](images/classRelationshipsDiagram.png)
 
 ## Python Implementation
 [View Python Source](classRelationships.py)
