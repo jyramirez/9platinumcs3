@@ -25,3 +25,5 @@ JENELLE YSABEL CHAN RAMIREZ
 [OOPAct Part 2 Output](q1/classAttributesMethods.md)
 
 [OOPAct Part 3 Output](q1/classRelationships.md)
+
+[OOPAct Part 4 Output](q1/advancedRelationships.md)

@@ -1,0 +1,55 @@
+Parent Class
+Sports Article Headline: #SPORTS | School Intramurals Begin
+5W1H Facts: Who: Students of PSHS-BRC, What: SY 2026-2027 Intramurals, When: Last Week of September, Where: PSHS-BRC Gymnasium, Why: Event, How: Many Matches
+Subtype: Sports News
+Individual Event: True
+Posting: True
+Experience: True
+
+Child Class
+Sports Article Headline: #SPORTS | School Intramurals Begin
+5W1H Facts: Who: Students of PSHS-BRC, What: SY 2026-2027 Intramurals, When: Last Week of September, Where: PSHS-BRC Gymnasium, Why: Event, How: Many Matches
+Subtype: Sports News
+Individual Event: True
+Posting: True
+Experience: True
+Sports Feature Article Theme: Teamwork
+Narrative: Exposition: Start of Intramurals, Rising Action: Teamwork, Climax: Teamwork, Falling Action: Teamwork, Resolution: End of Intramurals
+
+Inheritance
+Parent attribute (headline) accessed via Child Object: #SPORTS | School Intramurals Begin
+Parent attribute (posting) accessed via Child Object: True
+
+Calling Parent Method from Child Object:
+Watching the Basketball event for the article.
+
+Calling Child-Specific Method:
+Conducting an interview with BRC Student for the sports feature article.
+
+Aggregation
+Before Aggregation
+
+Sport Name: Basketball
+Event Type: Elimination
+Individual Sport: False
+
+Sport Name: Badminton
+Event Type: Elimination
+Individual Sport: True
+
+Sport Name: Volleyball
+Event Type: Elimination
+Individual Sport: False
+
+No sports covered yet.
+
+Added Basketball to the covered sports.
+Added Badminton to the covered sports.
+Added Volleyball to the covered sports.
+After Aggregation
+
+#SPORTS | School Intramurals Begin
+Covered Sports:
+- Basketball
+- Badminton
+- Volleyball
