@@ -28,7 +28,7 @@ Explanation: A Sport can exist even without a sport article to cover it.
 [Source Code](advancedRelationships.py)
 
 ## Test Run
-![Test](images/advancedTestRun.txt)
+[Test](images/advancedTestRun.txt)
 
 ## Object Diagram
 ![Objects](images/advancedObjectDiagram.png)
