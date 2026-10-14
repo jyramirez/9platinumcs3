@@ -36,4 +36,4 @@ JENELLE YSABEL CHAN RAMIREZ
 
 ### ENCAPSULATION
 
-[SG8 Encapsulation Output](q2/sg8_encapsulation.md)
+[SG8 Encapsulation Output](q2/sg8_encapsulation.py)
