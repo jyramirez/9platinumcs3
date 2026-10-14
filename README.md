@@ -18,6 +18,8 @@ JENELLE YSABEL CHAN RAMIREZ
 
 [Chinese Zodiac Sign Output](q1/zodiacPlatinumRamirez.md)
 
+### OBJECT-ORIENTED PROGRAMMING
+
 [ILA 3-1: Four Pillars of OOP Output](q1/ila_oop.md)
 
 [OOPAct Output](q1/classObjectUML.md)
@@ -27,3 +29,11 @@ JENELLE YSABEL CHAN RAMIREZ
 [OOPAct Part 3 Output](q1/classRelationships.md)
 
 [OOPAct Part 4 Output](q1/advancedRelationships.md)
+
+# Quarter 2
+
+## ACTIVITIES
+
+### ENCAPSULATION
+
+[SG8 Encapsulation Output](q2/sg8_encapsulation.md)
