@@ -36,8 +36,10 @@ JENELLE YSABEL CHAN RAMIREZ
 
 ### ENCAPSULATION
 
-[SG8 Encapsulation Output](q2/sg8_encapsulation.py)
+[SG8 Encapsulation Code](q2/sg8_encapsulation.py)
+[SG8 Encapsulation Output](q2/images/sg8_encapsulation.png)
 
 ### INHERITANCE
 
-[SG9 Inheritance Output](q2/sg9_inheritance.py)
+[SG9 Inheritance Code](q2/sg9_inheritance.py)
+[SG9 Inheritance Output](q2/images/sg9_inheritance.png)
