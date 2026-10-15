@@ -27,11 +27,11 @@ class Book(Library_Materials):
         self.__number_of_pages = number_of_pages
 
     def set_number_of_pages(self, number_pages):
-        if number_pages >= 0:
+        if number_pages >= 0:  # Ensures that number_pages wont be set as negative
             self.__number_of_pages = number_pages
         else:
             self.__number_of_pages = self.__number_of_pages
-            print("Number of Pages must be Positive")  # Ensures that number_pages wont be set as negative
+            print("Number of Pages must be Positive")
 
     def get_number_of_pages(self):
         return self.__number_of_pages
@@ -43,11 +43,11 @@ class Magazine(Library_Materials):
         self.__issue_number = issue_number
 
     def set_issue_number(self, issue_number):
-        if issue_number >= 0:
+        if issue_number >= 0:  # Ensures that issue_number wont be set as negative
             self.__issue_number = issue_number
         else:
             self.__issue_number = self.__issue_number
-            print("Issue number must be positive")  # Ensures that issue_number wont be set as negative
+            print("Issue number must be positive")
             
     def get_issue_number(self):
         return self.__issue_number
