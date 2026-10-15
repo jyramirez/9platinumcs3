@@ -4,10 +4,10 @@ class Library_Materials:
         self.__title = title
         self.__author = author
 
-    def set_title(self):
+    def set_title(self, title: str):
         self.__title = title
 
-    def set_author(self):
+    def set_author(self, author: str):
         self.__author = author
 
     def get_title(self):
@@ -28,7 +28,7 @@ class Book(Library_Materials):
 
     def set_number_of_pages(self, number_pages):
         if number_pages >= 0:
-            self.__number_of_pages = number_of_pages
+            self.__number_of_pages = number_pages
         else:
             self.__number_of_pages = self.__number_of_pages
             print("Number of Pages must be Positive")  # Ensures that number_pages wont be set as negative
