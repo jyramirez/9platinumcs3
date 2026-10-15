@@ -72,4 +72,5 @@ def main():
 
 main()
 
+# Output in q2/images
 
