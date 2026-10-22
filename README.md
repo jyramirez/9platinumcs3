@@ -43,3 +43,8 @@ JENELLE YSABEL CHAN RAMIREZ
 
 [FA1 - Library Management System - Code](q2/sg9_inheritance.py)
 [FA1 - Library Management  System - Output](q2/images/sg9_output.png)
+
+### METHOD OVERRIDING
+
+[Zoo Management System](q2/sg10_method-overriding.py)
+[Zoo Management System - Output](q2/images/sg10_output.png)
