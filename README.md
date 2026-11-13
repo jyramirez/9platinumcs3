@@ -48,3 +48,7 @@ JENELLE YSABEL CHAN RAMIREZ
 
 [Zoo Management System](q2/sg10_method-overriding.py)
 [Zoo Management System - Output](q2/images/sg10_output.png)
+
+### POLYMORPHISM
+[Hospital Billing System](q2/sg11_polymorphism-act1.py)
+[Duck Typing](q2/sg11_polymorphism-act2.md)
